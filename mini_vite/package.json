@@ -1,0 +1,16 @@
+{
+  "name": "handle_vite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mini_vite.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.4",
+    "vue": "^3.2.31"
+  }
+}
