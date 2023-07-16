@@ -1,0 +1,17 @@
+/node_modules
+/**/node_modules
+/packages/*/lib
+
+/output/
+/dist/
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+.pnpm-debug.log*
+flag
+
+playground
